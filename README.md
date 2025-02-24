@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
@@ -30,6 +31,7 @@
 <br>
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=flat-square&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Ubuntu-E98020?style=flat-square&logo=Ubuntu&logoColor=white"/> 
